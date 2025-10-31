@@ -1,0 +1,13 @@
+# Gradle & build cache
+/.gradle/
+/build/
+/captures/
+/local.properties
+
+# IntelliJ / Android Studio
+/.idea/
+*.iml
+
+# Other
+.DS_Store
+/out/
