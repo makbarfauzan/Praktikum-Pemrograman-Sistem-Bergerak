@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354369236694",
+    "project_id": "data-mahasiswa-393d9",
+    "storage_bucket": "data-mahasiswa-393d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354369236694:android:3fee71f105a7995443a377",
+        "android_client_info": {
+          "package_name": "com.example.uasakbar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOizqzlvKGClKsxQoa6hAl3rNcrV4EhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
